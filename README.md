@@ -1,9 +1,9 @@
-# MaunuType
+# MaunuType (2023)
 A React-based minimalistic typing test application
 
 ![2b55e354e0e24cdbc928778b83539ab5](https://github.com/maunugit/maunutype/assets/142994994/d172710c-ad27-46b2-8754-6eb97bc9be75)
 
-
+This is a typing test application that I made in 2023, but I'm now working on a 2026 version of MaunuType, which will be a completely new application.
 
 
 
